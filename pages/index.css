@@ -144,7 +144,9 @@
   height: 273px;
 }
 
-.recipes__videos-caption {
+.recipes__video-caption {
+  display: flex;
+  justify-content: space-between;
   color: #ffffff;
   font-family: "Inter";
   font-style: normal;
