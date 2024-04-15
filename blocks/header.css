@@ -9,6 +9,7 @@
   padding: 30px 80px 40px;
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 .nav {
@@ -68,7 +69,6 @@
 }
 
 .header__image {
-  z-index: 1;
   position: absolute;
   width: 646px;
   height: 568px;
