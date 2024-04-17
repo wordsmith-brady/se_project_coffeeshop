@@ -26,12 +26,12 @@
   display: block;
   color: #2f80ed;
   font-style: italic;
-  font-family: "Noto Serif, Times New Roman, serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
 }
 
 .header__description {
   max-width: 683px;
-  font-family: "Noto Serif, Times New Roman, serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0;
