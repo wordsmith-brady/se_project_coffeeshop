@@ -1,10 +1,6 @@
 .menu {
   padding: 100px 0 100px;
-  background-image: url(../images/background_menu.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  background-color: #fff;
+  background: url(../images/background_menu.svg) center cover no-repeat #fff;
 }
 
 .menu__title {
@@ -20,7 +16,7 @@
 .menu__subtitle {
   text-align: center;
   margin: 0 auto 100px;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif, Times New Roman, serif";
   font-size: 20px;
   line-height: 30px;
   color: #000;
@@ -35,35 +31,4 @@
   padding: 0;
   margin: 0;
   list-style-type: none;
-}
-
-.card {
-  width: 540px;
-}
-
-.card__list {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
-
-.card__title {
-  margin: 0 0 32px;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-}
-
-.card__list-item {
-  display: flex;
-  font-family: "Noto Serif";
-  color: #000;
-}
-
-.card__list-divider {
-  border-bottom: 1px solid black;
-  flex-grow: 1;
 }
