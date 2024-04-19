@@ -1,6 +1,5 @@
 .reservation {
   padding: 100px 0 290px;
-  /*this is the easiest way to increase the space between the from check-box and the end of the reservation section the brief asks for 120px i put 220px   */
   background-color: #d9e7ff;
   background-image: url(../images/background_reservation.svg);
   background-repeat: no-repeat;
