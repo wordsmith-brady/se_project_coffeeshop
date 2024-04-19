@@ -57,12 +57,12 @@
   align-items: flex-end;
   margin-top: auto;
   font-weight: 500;
-  color: #838383;
+  color: #6f6f6f;
   z-index: 1;
 }
 
 .header__paragraph {
   margin: 0;
   font-weight: 500;
-  color: #838383;
+  color: #6f6f6f;
 }
